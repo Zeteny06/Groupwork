@@ -1,2 +1,5 @@
 # Groupwork
-Harczi ,Kovács,Blümmel
+
+Téma: ADIDAS
+
+Harczi Gergő ,Kovács Máté ,Blümmel Zétény
