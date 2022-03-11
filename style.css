@@ -4,13 +4,14 @@
 #footer{
     bottom: 0;
     position: absolute;
-    
-    
 }
 
 #AdiDassler{
     height: 270px;
 }
-.elsosor{
+.cardsor{
     height: 565px;
+}
+#samba{
+    height: 425px;
 }
