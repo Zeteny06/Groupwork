@@ -1,10 +1,17 @@
 #cim{
     position: fixed;
 }
+#footer{
+    bottom: 0;
+    position: absolute;
+}
+
 #AdiDassler{
     height: 270px;
 }
-#feketelogo{
-    height: 300px;
-    width: 300px;
+.cardsor{
+    height: 565px;
+}
+#samba{
+    height: 425px;
 }
