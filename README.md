@@ -1,10 +1,11 @@
 # Groupwork
-
 Téma: ADIDAS
 
+# Csapattagok
 Harczi Gergő ,Kovács Máté ,Blümmel Zétény
 
-Ki mit csinált:
+# Ki mit csinált
+
 Harczi Gergő: History.html ,Style.css
 
 Kovács Máté: Sneakers.html , style.css
