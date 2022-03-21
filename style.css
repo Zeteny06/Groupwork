@@ -54,5 +54,8 @@ body{
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
     padding-bottom: 0;
-    margin-bottom: 190px;
+    margin-bottom: 0;
+}
+#carousellap{
+    position: relative;
 }
