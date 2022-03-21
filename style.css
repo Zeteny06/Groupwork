@@ -42,3 +42,20 @@ body{
 #box{
     vertical-align:middle;
 }
+.banner{
+    margin-left: auto;
+}
+#imgtext{
+    position: absolute;
+    bottom: 0;
+    background-color: white;
+    width: 200px;
+    height: 60px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+#carousellap{
+    position: relative;
+}
