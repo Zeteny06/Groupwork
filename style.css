@@ -27,3 +27,15 @@ body{
 #mez{
     height: 400px;
 }
+.carouserh5{
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+}
+.imgfix{
+    height: 800;
+    width: 480;
+}
