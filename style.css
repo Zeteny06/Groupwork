@@ -39,3 +39,6 @@ body{
     height: 800;
     width: 480;
 }
+#box{
+    vertical-align:middle;
+}
