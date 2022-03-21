@@ -8,6 +8,6 @@ Harczi Gergő ,Kovács Máté ,Blümmel Zétény
 
 Harczi Gergő: History.html ,Style.css
 
-Kovács Máté: Sneakers.html , style.css
+Kovács Máté: yeezy.html , style.css
 
 Blümmel Zétény:Fotter/Topper, visszajelzés.html, action.html
