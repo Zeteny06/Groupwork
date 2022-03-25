@@ -59,3 +59,9 @@ body{
 #banner{
     position: relative;;
 }
+.semmi{
+    text-align: end;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
