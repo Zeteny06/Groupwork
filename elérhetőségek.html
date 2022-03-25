@@ -48,16 +48,27 @@
         </p>
         <form>
             <label for="cars">Válaszon országot:</label>
-            <select id="cars" name="cars">
+            <select id="info" name="info">
               <option value="Magyarország">Magyarország</option>
               <option value="Anglia">Anglia</option>
               <option value="Amerika">Amerika</option>
               <option value="Németország">Németország</option>
             </select>
-            <input type="submit">
+            <button type="button" onclick="getInputValue()" value="">küldés</button>
         </form>
-        <div class="elerhetoseg">
-            <p></p>
+        <div class="elerhetoseg" style="display: none;">
+            <p id="1">
+
+            </p>
+            <p id="2">
+                
+            </p>
+            <p id="3">
+                
+            </p>
+            <p id="4">
+                
+            </p>
         </div>
     </div>
     <footer class="mt-5">
@@ -74,6 +85,7 @@
           </div>
         </div>
       </footer>
+      <script src="javascript.js"></script>
 </body>
 
 </html>
