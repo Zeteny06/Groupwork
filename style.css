@@ -13,7 +13,7 @@
     height: 565px;
 }
 #samba{
-    height: 425px;
+    height: 400px;
 }
 .fotter-img{
     min-width: 10px;
@@ -58,4 +58,10 @@ body{
 }
 #banner{
     position: relative;;
+}
+.semmi{
+    text-align: end;
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }

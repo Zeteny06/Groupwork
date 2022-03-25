@@ -10,4 +10,4 @@ Harczi Gergő: History.html ,Style.css
 
 Kovács Máté: yeezy.html , style.css
 
-Blümmel Zétény:Fotter/Topper, visszajelzés.html, action.html
+Blümmel Zétény:Fotter/Topper, visszajelzés.html, action.html, javascript
