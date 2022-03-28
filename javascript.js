@@ -2,23 +2,24 @@
 //     var inputVal = document.getElementById("info").value;
 //     alert(inputVal)
 // }
-// function getInputValue() {
-//     var inputVal = document.getElementById("info").value;
-//     if (value = Magyarország) {
-//         var str = "adadadada";
-//     } 
-//     else if  (value = Anglia) {
-//         var str ="xd";
-//     }
-//     else if (value = Amerika) {
-//         var str ="asd";
-//     }
-//     else if (value = Németország) {
-//         var str ="séjsze";
-//     }
-//     alert(value)
-// }
 function getInputValue() {
-   var inputVal = document.getElementById("info").value;
-    alert(inputVal)
+    var value = document.getElementById("info").value;
+    var str;
+    if (value == "Magyarország") {
+        str = "adadadada";
+    } 
+    else if  (value == "Anglia") {
+        str ="xd";
+    }
+    else if (value == "Amerika") {
+        str ="asd";
+    }
+    else if (value == "Németország") {
+        str ="séjsze";
+    }
+    alert(str)
 }
+// function getInputValue() {
+//    var inputVal = document.getElementById("info").value;
+//     alert(inputVal)
+// }
