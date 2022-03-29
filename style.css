@@ -65,3 +65,35 @@ body{
     bottom: 0;
     right: 0;
 }
+ .navbar-brand:hover{
+    border: black solid;
+} 
+.nav-item p:hover{
+    color: rgb(243, 206, 158);
+    text-transform: uppercase;
+    size: 150%;
+}
+#history{
+    text-decoration: underline;
+}
+#history:hover{
+    text-decoration: none;
+}
+#yeezy{
+    text-decoration: underline;
+}
+#yeezy:hover{
+    text-decoration: none;
+}
+#elerhetoseg{
+    text-decoration: underline;
+}
+#elerhetoseg:hover{
+    text-decoration: none;
+}
+#vissza{
+    text-decoration: underline;
+}
+#vissza:hover{
+    text-decoration: none;
+}
