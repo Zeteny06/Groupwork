@@ -118,4 +118,9 @@ body{
 .imganimation:active{
     top: 2px;
 }
+.carouserh5 a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
 
