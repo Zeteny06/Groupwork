@@ -4,18 +4,18 @@
 // }
 function getInputValue() {
     var value = document.getElementById("info").value;
-    var str;
-    if (value == "Magyarország") {
-        str = "adadadada";
+    var str ;
+    if (value == "Telefon") {
+        str = "Adidas telefonos ügyfélszolgálat telefonszáma: 800-982-9337.\nAdidas telefonos ügyfélszolgálati idő: Hétfő-Szombat: 09:00-17:00 PST.";
     } 
-    else if  (value == "Anglia") {
-        str ="xd";
+    else if  (value == "Csevegés") {
+        str ="https://www.adidas.com/us/help";
     }
-    else if (value == "Amerika") {
-        str ="asd";
+    else if (value == "Email") {
+        str ="Adidas ügyfélszolgálati e-mail cím: customerservice@shopadidas.com.";
     }
-    else if (value == "Németország") {
-        str ="séjsze";
+    else if (value == "Webpage") {
+        str ="Ügyfélszolgálat, tudásközpont és önkiszolgálás az https://www.adidas.com/us/help";
     }
     alert(str)
 }
